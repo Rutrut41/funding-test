@@ -1,2 +1,1 @@
-# funding-test
-test to see if .yml funding link works correctly 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Donate-blue)](https://www.paypal.me/QKurmaskie)
