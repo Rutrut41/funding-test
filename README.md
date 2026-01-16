@@ -1,1 +1,2 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-Donate-blue)](https://www.paypal.me/QKurmaskie)
+If you like this project, you can **donate via PayPal**:  
+[Donate here](https://www.paypal.me/QKurmaskie)
