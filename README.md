@@ -1,1 +1,1 @@
-[(https://img.shields.io/badge/Sponsor-Donate-blue)](https://www.paypal.me/QKurmaskie)
+[![Donate](https://img.shields.io/badge/Sponsor-Donate-blue)](https://www.paypal.me/QKurmaskie)
